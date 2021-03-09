@@ -1,1 +1,4 @@
  echo "My first script for jenkins"
+ date
+ cal
+ echo "Added shell cmds"
