@@ -3,3 +3,4 @@
  cal
  echo "Added shell cmds"
  echo " Added hook"
+ echo "Day3"
