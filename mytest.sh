@@ -5,3 +5,5 @@
  echo " Added hook"
  echo "Day3"
  echo "Day4"
+
+ echo "Poll SCM"
