@@ -8,4 +8,4 @@
 
  echo "Poll SCM"
  echo "POLL AGAIN"
-
+ echo "GITHUB TRIGGER"
